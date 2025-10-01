@@ -47,7 +47,7 @@ The report must be sent by mail to the GEO5016 coordinator: [Jantien Stoter](htt
 
 - - -
 
-## How to start a project?
+## How to start an internship
 
 #### 1. Find a place to do an internship
 
