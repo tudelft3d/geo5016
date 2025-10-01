@@ -22,7 +22,7 @@ There is no formal start date or end date, you can start any time provided you h
 - - -
 
 ## Educational method
-Individual work: Internship Report (max 5,000 words) according to the [template provided](download/geo5016_internship_report_requirements.docx).
+Individual work: Internship Report (max 5,000 words) according to the [template provided](download/geo5016_internship_report_requirements.docx) and professional skills to be assessed by workplace supervisor.
 
 - - -
 
@@ -34,7 +34,7 @@ The internship should last at least 280 hours, i.e., seven weeks on a full-time 
 
 ## Assessment
 
-The final delivery is an Internship Report. The requirements of this report can be found in this FILE 1
+The final delivery is an Internship Report. The requirements of this report can be found in this [file](download/geo5016_internship_report_requirements.docx)
 The report will be assesed by your Geomatics Supervisor. This is 70% of the mark.
 The other 30% of the mark is an assessment by your Workplace Supervisor on professional skills.
 Both marks should be above 5.0. Otherwise a retake is needed.
