@@ -53,7 +53,7 @@ The report must be sent by mail to the GEO5016 coordinator: [Jantien Stoter](htt
 
 #### 2. Find a supervisor of the MSc Geomatics
 
-The Geomatics Supervisor may be any person connected to the Geomatics programme with sufficient knowledge of your chosen topic.
+The Geomatics Supervisor may be any person connected to the Geomatics programme with sufficient knowledge of the activities that you will do during your internship.
 
 #### 3. Complete an Internship Proposal form 
 
