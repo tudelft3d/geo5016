@@ -67,4 +67,4 @@ A GO will be granted when the internship Coordinator is satisfied that the propo
 #### 4. When you receive a go 
 
 Submit a UNL Internship Agreement, signed by you and your Workplace Supervisor, to <mailto:J.vanOs@tudelft.nl> with a CC to the GEO5016 Coordinator. 
-The Internship Agreement form can be downloaded in Dutch and English from <https://www.universiteitenvannederland.nl/onderwerpen/onderwijs/gemeenschappelijke-stageovereenkomst-universiteiten>.
+The Internship Agreement form, in Dutch and English, can be [downloaded from that website](https://www.universiteitenvannederland.nl/onderwerpen/onderwijs/gemeenschappelijke-stageovereenkomst-universiteiten).
