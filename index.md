@@ -14,6 +14,22 @@ There is no formal start date or end date, you can start any time provided you h
 
 - - -
 
+## Interested companies
+
+The following expressions of interest were submitted to [this call for Geomatics internship opportunities on LinkedIn](https://www.linkedin.com/posts/jantien-stoter-7721346_we-are-looking-for-industry-partners-activity-7402293314005254145-l_5X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEWPkYBIvv2h3LqJYVuAuF168KH4PMOXls). The contact persons have been informed that they can be contacted by a student to explore this further. 
+
+| Company | LinkedIn contact | Name |
+| ------- | ---------------- | ---- |
+| [OmKeere](https://omkeere.com) | https://www.linkedin.com/in/larsdevries | Lars de Vries |
+| [Pontly](https://pointly.ai) | https://www.linkedin.com/in/sid-hinrichs-3794b6158/ | Sid Hinrichs |
+| [Moondoor](www.moondoor.nl) | https://www.linkedin.com/in/thomasbroos/ | Thomas Broos |
+| [Packhunt](https://www.packhunt.io) | https://www.linkedin.com/in/jeroencoenders/ | Jeroen Coenders |
+| [Vellum](https://www.vellum.eu) | https://www.linkedin.com/in/epols/ | [Erik Pols](mailto:erik@vellum.eu) |
+| [GeoNext](https://geonext.nl/en/home/) | Per e-mail | [Linh Truong-Hong](mailto:linh.truonghong@geonext.nl) |
+| [TNO](https://www.tno.nl/en/) | Per e-mail (about 3D tiles for subsurface information) | [Patrick Brooijmans](mailto:patrick.brooijmans@tno.nl) |
+
+- - -
+
 ## Learning Objectives
 
 - To experience working in practice, in a company, at a (local) governmental institute or a research institute.
