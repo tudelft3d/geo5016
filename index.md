@@ -12,6 +12,7 @@ The Internship must have an academic character.
 
 There is no formal start date or end date, you can start any time provided you have completed at least 30 ECTS of the programme core subjects. 
 
+Link to the study guide can be found [here](https://studyguide.tudelft.nl/opleidingen/study-guide/educations/10542#/details/22241)
 - - -
 
 ## Interested companies
