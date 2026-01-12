@@ -28,6 +28,7 @@ The following expressions of interest were submitted to [this call for Geomatics
 | [Vellum](https://www.vellum.eu) | https://www.linkedin.com/in/epols/ | [Erik Pols](mailto:erik@vellum.eu) |
 | [GeoNext](https://geonext.nl/en/home/) | Per e-mail | [Linh Truong-Hong](mailto:linh.truonghong@geonext.nl) |
 | [TNO](https://www.tno.nl/en/) | Per e-mail (about 3D tiles for subsurface information) | [Patrick Brooijmans](mailto:patrick.brooijmans@tno.nl) |
+| [Vicrea](https://www.vicrea.nl) | https://www.linkedin.com/in/roderick-duinker-13195291/ | Roderick Duinker |
 
 - - -
 
