@@ -61,11 +61,9 @@ Both marks should be above 5.0. Otherwise a retake is needed.
 - The [rubric for the workplace supervisor](download/Workplace_Supervisor_GEO5016_Assessment_Rubric_Part_A-230831.pdf)
 - The [rubric for the Geomatics supervisor](download/Geomatics_Supervisor_GEO5016_Assessment_Rubric_Part_B_230831.pdf)
 
-The report must be sent by mail to the GEO5016 coordinator: [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/) (<mailto:j.e.stoter@tudelft.nl>).
-
 - - -
 
-## How to start an internship
+## How to start and complete an internship
 
 #### 1. Find a place to do an internship
 
@@ -77,7 +75,8 @@ The Geomatics Supervisor may be any person connected to the Geomatics programme 
 
 It needs to be submitted (max 800 words) according to the [provided template](download/GEO5016_Internship_application_form_2025.docx).
 
-The Internship Proposal form can be sent by mail to the GEO5016 coordinator [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/) (<mailto:j.e.stoter@tudelft.nl>).
+The Internship Proposal form can be uploaded [here](https://surfdrive.surf.nl/s/qmkrHkBoXqinDe6)
+Please use your student number in the file name.
 
 The GEO5016 Coordinator will assess your Internship Proposal for suitability for the Geomatics programme. 
 A GO will be granted when the internship Coordinator is satisfied that the proposed topic and activities are suitable for the Geomatics Programme and at MSc level, i.e., there has to be an academic challenge. This means that you have to work towards tackling a problem, working with complex and heterogeneous geospatial data, or developing a model or something similar, either individually or as part of a team. So, just carrying out activities according to fixed protocols without a personal contribution is not sufficient. Without a GO, you are not allowed to start this internship. 
@@ -86,3 +85,7 @@ A GO will be granted when the internship Coordinator is satisfied that the propo
 
 Submit a UNL Internship Agreement, signed by you and your Workplace Supervisor, to <mailto:J.vanOs@tudelft.nl> with a CC to the GEO5016 Coordinator. 
 The Internship Agreement form, in Dutch and English, can be [downloaded from that website](https://www.universiteitenvannederland.nl/onderwerpen/onderwijs/gemeenschappelijke-stageovereenkomst-universiteiten).
+
+#### 5. How to finish
+Write your internship report (see template).
+The report must be uploaded [here](https://surfdrive.surf.nl/s/ACwg6YJxC6BTmzm).
