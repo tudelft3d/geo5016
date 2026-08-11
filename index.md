@@ -23,7 +23,7 @@ The following expressions of interest were submitted to [this call for Geomatics
 | ------- | ---------------- | ---- |
 | [OmKeere](https://omkeere.com) | https://www.linkedin.com/in/larsdevries | Lars de Vries |
 | [Pontly](https://pointly.ai) | https://www.linkedin.com/in/sid-hinrichs-3794b6158/ | Sid Hinrichs |
-| [Moondoor](www.moondoor.nl) | https://www.linkedin.com/in/thomasbroos/ | Thomas Broos |
+| [Moondoor](https://www.moondoor.nl) | https://www.linkedin.com/in/thomasbroos/ | Thomas Broos |
 | [Packhunt](https://www.packhunt.io) | https://www.linkedin.com/in/jeroencoenders/ | Jeroen Coenders |
 | [Vellum](https://www.vellum.eu) | https://www.linkedin.com/in/epols/ | [Erik Pols](mailto:erik@vellum.eu) |
 | [GeoNext](https://geonext.nl/en/home/) | Per e-mail | [Linh Truong-Hong](mailto:linh.truonghong@geonext.nl) |
@@ -53,7 +53,7 @@ The internship should last at least 280 hours, i.e., seven weeks on a full-time 
 ## Assessment
 
 The final delivery is an Internship Report. The requirements of this report can be found in this [file](download/geo5016_internship_report_requirements.docx)
-The report will be assesed by your Geomatics Supervisor. This is 70% of the mark.
+The report will be assessed by your Geomatics Supervisor. This is 70% of the mark.
 The other 30% of the mark is an assessment by your Workplace Supervisor on professional skills.
 Both marks should be above 5.0. Otherwise a retake is needed.
 
@@ -88,4 +88,4 @@ The Internship Agreement form, in Dutch and English, can be [downloaded from tha
 
 #### 5. How to finish
 Write your internship report (see template).
-The report must be uploaded [here](https://surfdrive.surf.nl/s/ACwg6YJxC6BTmzm).
+The report must be uploaded [here](https://surfdrive.surf.nl/s/ACwg6YJxC6BTmzm), maximum 2 weeks after the end of the internship.
