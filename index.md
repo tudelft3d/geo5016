@@ -22,7 +22,7 @@ The following expressions of interest were submitted to [this call for Geomatics
 | Company | LinkedIn contact | Name |
 | ------- | ---------------- | ---- |
 | [OmKeere](https://omkeere.com) | https://www.linkedin.com/in/larsdevries | Lars de Vries |
-| [Pontly](https://pointly.ai) | https://www.linkedin.com/in/sid-hinrichs-3794b6158/ | Sid Hinrichs |
+| [Pointly](https://pointly.ai) | https://www.linkedin.com/in/sid-hinrichs-3794b6158/ | Sid Hinrichs |
 | [Moondoor](https://www.moondoor.nl) | https://www.linkedin.com/in/thomasbroos/ | Thomas Broos |
 | [Packhunt](https://www.packhunt.io) | https://www.linkedin.com/in/jeroencoenders/ | Jeroen Coenders |
 | [Vellum](https://www.vellum.eu) | https://www.linkedin.com/in/epols/ | [Erik Pols](mailto:erik@vellum.eu) |
