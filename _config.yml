@@ -23,8 +23,8 @@ baseurl: "/geo5016" # the subpath of your site, e.g. /blog
 url: "https://geomatics.bk.tudelft.nl"
 # Build settings
 # theme: minima
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
