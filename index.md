@@ -40,7 +40,7 @@ The following expressions of interest were submitted to [this call for Geomatics
 - - -
 
 ## Educational method
-Individual work: Internship Report (max 5,000 words) according to the [template provided](download/geo5016_internship_report_requirements.docx) and professional skills to be assessed by workplace supervisor.
+Individual work: Internship Report (max 5,000 words) according to the [report requirements](internship-report-requirements/) and professional skills to be assessed by the workplace supervisor.
 
 - - -
 
@@ -52,14 +52,14 @@ The internship should last at least 280 hours, i.e., seven weeks on a full-time 
 
 ## Assessment
 
-The final delivery is an Internship Report. The requirements of this report can be found in this [file](download/geo5016_internship_report_requirements.docx)
+The final delivery is an Internship Report. The requirements of this report can be found in the [report requirements](internship-report-requirements/).
 The report will be assessed by your Geomatics Supervisor. This is 70% of the mark.
 The other 30% of the mark is an assessment by your Workplace Supervisor on professional skills.
 Both marks should be above 5.0. Otherwise a retake is needed.
 
-- The [internship assessment form](download/geo5016_Internship_Assessment_Form240831.xlsx) 
-- The [rubric for the workplace supervisor](download/Workplace_Supervisor_GEO5016_Assessment_Rubric_Part_A-230831.pdf)
-- The [rubric for the Geomatics supervisor](download/Geomatics_Supervisor_GEO5016_Assessment_Rubric_Part_B_230831.pdf)
+- The [internship assessment form](download/geo5016_Internship_Assessment_Form240831.xlsx)
+- The [rubric for the workplace supervisor](workplace-supervisor-rubric/)
+- The [rubric for the Geomatics supervisor](geomatics-supervisor-rubric/)
 
 - - -
 
@@ -73,7 +73,7 @@ The Geomatics Supervisor may be any person connected to the Geomatics programme 
 
 #### 3. Complete an Internship Proposal form 
 
-It needs to be submitted (max 800 words) according to the [provided template](download/GEO5016_Internship_application_form_2025.docx).
+It needs to be submitted (max 800 words) according to the [provided template](internship-application-form/).
 
 The Internship Proposal form can be uploaded [here](https://surfdrive.surf.nl/s/qmkrHkBoXqinDe6)
 Please use your student number in the file name.

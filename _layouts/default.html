@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Geomatics in practice (GEO5016)</title>
+    <title>{{ page.title | default: site.title }}</title>
     <link rel="stylesheet" href="https://unpkg.com/chota@latest" />
     <style>
       body.dark {
@@ -16,6 +16,20 @@
         margin-left: auto;
         margin-right: auto;
       }
+      .container.wide {
+        max-width: min(98vw, 1700px);
+        width: 100%;
+      }
+      .table-scroll {
+        overflow-x: auto;
+      }
+      .table-scroll table {
+        min-width: 1200px;
+        font-size: 1.4rem;
+      }
+      .table-scroll td {
+        border-bottom: 1px solid var(--color-lightGrey);
+      }
 
       /*@media (min-width: 800px) {
         .container {
@@ -27,7 +41,7 @@
   </head>
 
   <body id="top">
-    <div class="container">
+    <div class="container{% if page.wide %} wide{% endif %}">
       <section id="all">{{ content}}</section>
     </div>
   </body>
