@@ -30,6 +30,7 @@ The following expressions of interest were submitted to [this call for Geomatics
 | [TNO](https://www.tno.nl/en/) | Per e-mail (about 3D tiles for subsurface information) | [Patrick Brooijmans](mailto:patrick.brooijmans@tno.nl) |
 | [Vicrea](https://www.vicrea.nl) | https://www.linkedin.com/in/roderick-duinker-13195291/ | Roderick Duinker |
 | [Pliant Offshore](www.pliant-offshore.com) | xxxxx | [Tim Farrow](mailto:tim.farrow@pliant-offshore.com) |
+
 - - -
 
 ## Learning Objectives
