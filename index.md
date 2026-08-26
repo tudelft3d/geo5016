@@ -29,7 +29,7 @@ The following expressions of interest were submitted to [this call for Geomatics
 | [GeoNext](https://geonext.nl/en/home/) | Per e-mail | [Linh Truong-Hong](mailto:linh.truonghong@geonext.nl) |
 | [TNO](https://www.tno.nl/en/) | Per e-mail (about 3D tiles for subsurface information) | [Patrick Brooijmans](mailto:patrick.brooijmans@tno.nl) |
 | [Vicrea](https://www.vicrea.nl) | https://www.linkedin.com/in/roderick-duinker-13195291/ | Roderick Duinker |
-| [Pliant Offshore](www.pliant-offshore.com) | xxxxx | [Tim Farrow](mailto:tim.farrow@pliant-offshore.com) |
+| [Pliant Offshore](https://www.pliant-offshore.com) | https://www.linkedin.com/company/pliant-offshore/ | [Tim Farrow](mailto:tim.farrow@pliant-offshore.com) |
 
 - - -
 
