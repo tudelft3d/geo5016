@@ -20,4 +20,6 @@ jobs:
       - name: jekyll build
         run: bundle exec jekyll build --trace
       - name: trigger update
-        run: curl -L ${{ secrets.UPDATE_URL }}
+        env:
+          DEPLOY_TOKEN: ${{ secrets.DEPLOY_TOKEN }}
+        run: curl -fL -H "X-Deploy-Token: ${DEPLOY_TOKEN}" ${{ secrets.UPDATE_URL }}
