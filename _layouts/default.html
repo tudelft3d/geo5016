@@ -4,45 +4,107 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="https://unpkg.com/chota@latest" />
-    <style>
-      body.dark {
-        --font-color: #481dc9;
-        --color-grey: #ccc;
-        --color-darkGrey: #777;
-      }
-      .container {
-        max-width: 800px; /* adjust this as desired */
-        margin-left: auto;
-        margin-right: auto;
-      }
-      .container.wide {
-        max-width: min(98vw, 1700px);
-        width: 100%;
-      }
-      .table-scroll {
-        overflow-x: auto;
-      }
-      .table-scroll table {
-        min-width: 1200px;
-        font-size: 1.4rem;
-      }
-      .table-scroll td {
-        border-bottom: 1px solid var(--color-lightGrey);
-      }
-
-      /*@media (min-width: 800px) {
-        .container {
-          margin-left: 8vw;
-          margin-right: 8vw;
-        }
-      }*/
-    </style>
+    <meta name="description" content="Geomatics in Practice (GEO5016): an internship elective for the MSc Geomatics for the Built Environment at TU Delft — course content, participating companies, requirements and assessment." />
+    <meta property="og:title" content="{{ page.title | default: site.title }}" />
+    <meta property="og:description" content="An internship elective for the MSc Geomatics for the Built Environment at TU Delft." />
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}/" />
+    <meta property="og:type" content="website" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2316385e'/%3E%3Cpath d='M16 5.5c-4.4 0-7.8 3.1-7.8 7.1 0 3.6 4.6 8.9 7.8 12.9 3.2-4 7.8-9.3 7.8-12.9 0-4-3.4-7.1-7.8-7.1z' fill='%236fd4ec'/%3E%3Ccircle cx='16' cy='12.9' r='2.9' fill='%2316385e'/%3E%3C/svg%3E" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/chota.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/site.css" />
   </head>
 
   <body id="top">
-    <div class="container{% if page.wide %} wide{% endif %}">
-      <section id="all">{{ content}}</section>
+    <header class="site-header">
+      <div class="container{% if page.wide %} wide{% endif %}">
+        <div class="site-header-inner">
+          <a class="brand" href="{{ site.baseurl }}/">
+            <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+              <path d="M16 5.5c-4.4 0-7.8 3.1-7.8 7.1 0 3.6 4.6 8.9 7.8 12.9 3.2-4 7.8-9.3 7.8-12.9 0-4-3.4-7.1-7.8-7.1z" fill="#6fd4ec" />
+              <circle cx="16" cy="12.9" r="2.9" fill="#16385e" />
+            </svg>
+            Geomatics in Practice <span class="brand-code">GEO5016</span>
+          </a>
+          <nav class="site-nav" aria-label="Main navigation">
+            <details class="site-nav-toggle">
+              <summary aria-label="Menu">
+                <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none" /></svg>
+              </summary>
+              <div class="site-nav-links">
+                <a href="{{ site.baseurl }}/"{% if page.url == '/' %} class="active"{% endif %}>Home</a>
+                <a href="{{ site.baseurl }}/internship-application-form/"{% if page.url == '/internship-application-form/' %} class="active"{% endif %}>Application form</a>
+                <a href="{{ site.baseurl }}/internship-report-requirements/"{% if page.url == '/internship-report-requirements/' %} class="active"{% endif %}>Report</a>
+                <a href="{{ site.baseurl }}/workplace-supervisor-rubric/"{% if page.url contains 'workplace' %} class="active"{% endif %}>Workplace rubric</a>
+                <a href="{{ site.baseurl }}/geomatics-supervisor-rubric/"{% if page.url contains 'geomatics' %} class="active"{% endif %}>Geomatics rubric</a>
+              </div>
+            </details>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    {% if page.hero %}
+    <div class="hero">
+      <svg class="hero-art" viewBox="0 0 480 300" preserveAspectRatio="xMidYMid slice" fill="none" aria-hidden="true">
+        <defs>
+          <pattern id="hero-dots" width="13" height="13" patternUnits="userSpaceOnUse">
+            <circle cx="2" cy="2" r="1.1" fill="rgba(255,255,255,0.16)" />
+          </pattern>
+        </defs>
+        <rect width="480" height="300" fill="url(#hero-dots)" />
+        <path d="M-40 62 C 110 34, 250 96, 520 52" stroke="rgba(255,255,255,0.25)" stroke-width="5" stroke-linecap="round" />
+        <path d="M-40 224 C 150 268, 330 196, 520 244" stroke="rgba(255,255,255,0.25)" stroke-width="5" stroke-linecap="round" />
+        <path d="M118 -20 C 96 90, 190 190, 152 320" stroke="rgba(255,255,255,0.15)" stroke-width="3" stroke-linecap="round" />
+        <circle cx="330" cy="138" r="115" stroke="rgba(255,255,255,0.22)" stroke-width="2" />
+        <circle cx="330" cy="138" r="80" stroke="rgba(255,255,255,0.28)" stroke-width="2" />
+        <circle cx="330" cy="138" r="48" stroke="rgba(255,255,255,0.34)" stroke-width="2" />
+        <rect x="60" y="244" width="58" height="28" rx="4" fill="rgba(255,255,255,0.28)" />
+        <rect x="128" y="268" width="44" height="24" rx="4" fill="rgba(255,255,255,0.22)" />
+        <rect x="246" y="250" width="52" height="26" rx="4" fill="rgba(255,255,255,0.25)" />
+        <path fill-rule="evenodd" d="M330 208 C 302 184, 278 165, 278 138 A 52 52 0 1 1 382 138 C 382 165, 358 184, 330 208 Z M330 156 A 18 18 0 1 0 330 120 A 18 18 0 1 0 330 156 Z" fill="#6fd4ec" />
+      </svg>
+      <div class="container{% if page.wide %} wide{% endif %}">
+        <div class="hero-inner">
+          <div class="hero-copy">
+            <p class="hero-kicker">MSc Geomatics for the Built Environment</p>
+            <h1>{{ page.title | default: site.title }}</h1>
+            <p class="hero-sub">Experience working in practice — at a company, a local or governmental institute, or a research institute — on an internship with an academic character.</p>
+          </div>
+        </div>
+      </div>
     </div>
+    {% endif %}
+
+    <main class="container{% if page.wide %} wide{% endif %}">
+      <section id="all">{{ content }}</section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container{% if page.wide %} wide{% endif %}">
+        <div class="footer-inner">
+          <div>
+            <p class="footer-brand">Geomatics in Practice (GEO5016)</p>
+            <p>MSc Geomatics for the Built Environment · TU Delft</p>
+          </div>
+          <div class="footer-links">
+            <a href="https://studiegids.tudelft.nl/courses/study-guide/educations/26132">Study guide</a>
+            <a href="https://www.tudelft.nl/en/architecture-and-the-built-environment">Faculty of Architecture and the Built Environment</a>
+          </div>
+        </div>
+        <p class="footer-note">© {{ site.time | date: '%Y' }} TU Delft. For questions about the internship, contact the GEO5016 Coordinator and your Geomatics Supervisor.</p>
+      </div>
+    </footer>
+
+    <script>
+      // Show the nav inline on desktop, collapse it to a menu on small screens
+      (function () {
+        var toggle = document.querySelector('.site-nav-toggle');
+        if (!toggle) return;
+        var mq = window.matchMedia('(min-width: 768px)');
+        function sync() { toggle.open = mq.matches; }
+        sync();
+        mq.addEventListener('change', sync);
+      })();
+    </script>
   </body>
 </html>
