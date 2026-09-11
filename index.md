@@ -79,6 +79,6 @@ Both marks should be above 5.0. Otherwise a retake is needed.
 
   <div class="step">
     <h3><span class="step-number" aria-hidden="true">5</span> How to finish</h3>
-    <p>Write your internship report (see the <a href="internship-report-requirements/">report requirements</a>). The report must be sent to your academic supervisor maximum 2 weeks after the end of the internship. The final report should be uploaded <a href="https://surfdrive.surf.nl/s/ACwg6YJxC6BTmzm">here</a>. Notify the module coordinator by email after you have uploaded your file  <a href="mailto:j.e.stoter@tudelft.nl@tudelft.nl">J.vanOs@tudelft.nl</a> </p>
+    <p>Write your internship report (see the <a href="internship-report-requirements/">report requirements</a>). The report must be sent to your academic supervisor maximum 2 weeks after the end of the internship. The final report should be uploaded <a href="https://surfdrive.surf.nl/s/ACwg6YJxC6BTmzm">here</a>. Notify the module coordinator <a href="mailto: Jantien Stoter">j.e.stoter@tudelft.nl</a> by email after you have uploaded your file   </p>
   </div>
 </div>
