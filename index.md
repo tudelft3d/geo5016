@@ -79,6 +79,6 @@ Both marks should be above 5.0. Otherwise a retake is needed.
 
   <div class="step">
     <h3><span class="step-number" aria-hidden="true">5</span> How to finish</h3>
-    <p>Write your internship report (see the <a href="internship-report-requirements/">report requirements</a>). The report must be sent to your academic supervisor maximum 2 weeks after the end of the internship. The final report should beu ploaded <a href="https://surfdrive.surf.nl/s/ACwg6YJxC6BTmzm">here</a>, </p>
+    <p>Write your internship report (see the <a href="internship-report-requirements/">report requirements</a>). The report must be sent to your academic supervisor maximum 2 weeks after the end of the internship. The final report should be uploaded <a href="https://surfdrive.surf.nl/s/ACwg6YJxC6BTmzm">here</a>, </p>
   </div>
 </div>
