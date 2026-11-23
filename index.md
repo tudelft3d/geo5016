@@ -48,7 +48,7 @@ The report will be assessed by your Geomatics Supervisor. This is 70% of the mar
 The other 30% of the mark is an assessment by your Workplace Supervisor on professional skills.
 Both marks should be above 5.0. Otherwise a retake is needed.
 
-- The [internship assessment form](download/geo5016_Internship_Assessment_Form240831.xlsx)
+- The [internship assessment form](download/geo5016_Internship_Assessment_Form261123.xlsx)
 - The [rubric for the workplace supervisor](workplace-supervisor-rubric/)
 - The [rubric for the Geomatics supervisor](geomatics-supervisor-rubric/)
 
